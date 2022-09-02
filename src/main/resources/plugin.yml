@@ -1,0 +1,6 @@
+name: EventListeners
+version: '${project.version}'
+main: me.shalckercraft.eventlisteners.Plugin
+api-version: 1.16
+authors: [ ShalckerCraft ]
+description: A plugin event listener
